@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+.env
+.env.local
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data Files (large)
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.json
+
+# Trained Models
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
+logs/
+reports/figures/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+Thumbs.db
+.DS_Store
